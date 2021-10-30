@@ -1,0 +1,95 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 847px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Abril Fatface";
+  font-style: italic;
+  text-transform: uppercase;
+  margin: 19px -16px 0 300px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 321px;
+  margin: 44px auto 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 558px;
+  height: 321px;
+  margin: 0 0 60px 582px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 645px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 857px;
+    margin-left: 200px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 470px;
+    height: 264px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 382px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 583px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 720px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 360px;
+    height: 202px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 162px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 310px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 572px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 191px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 195px;
+  }
+}
